@@ -1,0 +1,20 @@
+"=======================================================================
+" Options
+"=======================================================================
+
+" Don't make the annoying "bonk" noise.
+" -------------------------------------
+"
+" Instead, show me something is bonk.
+set visualbell
+set noerrorbells
+
+" Allow for multiple indents when in visual mode.
+" -----------------------------------------------
+"
+" You can press > or < when in visual mode to move the line left by an
+" indent or right by an indent, and you can repeat this as many times as
+" you want. You don't have to take your finger off the > or < key to
+" press . to repeat.
+vnoremap < <gv^
+vnoremap > >gv^

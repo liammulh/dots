@@ -1,0 +1,9 @@
+# Ignore Vim swap files.
+.swp
+
+# Ignore JetBrains config directories.
+.idea
+
+# Ignore macOS's "Desktop Services Store".
+# https://www.arno.org/on-the-origins-of-ds-store
+.DS_Store
