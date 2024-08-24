@@ -10,8 +10,8 @@ set -o vi
 ##################################################
 
 # Set default editor.
-export VISUAL="nvim"
-export EDITOR="nvim"
+export VISUAL="vim"
+export EDITOR="vim"
 
 ##################################################
 # Aliases
