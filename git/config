@@ -2,7 +2,7 @@
 	email = liammulh@gmail.com
 	name = Liam Mulhall
 [core]
-	editor = nvim
+	editor = vim
 	excludesFile = ~/.config/git/gitignore
 [commit]
 	template = ~/.config/git/commit-template
