@@ -131,8 +131,8 @@ set autoindent
 "======================================================================
 
 " If you don't have a color scheme installed from a package, use the
-" built-in 'slate' colorscheme.
-colorscheme slate
+" built-in 'elflord' colorscheme.
+colorscheme elflord
 
 " Enable 24-bit RGB color in the TUI. Basically, the colors look nicer
 " if your terminal supports this.
